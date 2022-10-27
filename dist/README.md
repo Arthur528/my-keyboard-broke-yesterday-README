@@ -27,5 +27,5 @@
   Clone the repository and install dependency packages first.
 
   ## Questions
-  For questions, please reach out at moyangdev@gmail.com. <br />
-  For additional projects, please check out: https://github.com/moyangdev.
+  For questions, please reach out at kcain72@gmail.com. <br />
+  For additional projects, please check out: https://github.com/Arthur528.
