@@ -46,11 +46,13 @@ Please pull down the repository and run it locally using node.js <br />
 You will need to install npm and inquirer <br />
 
 ## Link
-A link to the [code](hhttps://github.com/Arthur528/my-keyboard-broke-yesterday-README):
+A link to the [code](https://github.com/Arthur528/my-keyboard-broke-yesterday-README):
 ```
 https://github.com/Arthur528/my-keyboard-broke-yesterday-README
 ```
-A link to the [demo video]():
+A link to the [demo video](https://drive.google.com/file/d/1jMbkrdEX97zfFuLBoFrbgvCFnowlum-D/view):
+
+https://drive.google.com/file/d/1jMbkrdEX97zfFuLBoFrbgvCFnowlum-D/view
 ```
 
 ```
